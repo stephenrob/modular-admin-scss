@@ -1,0 +1,19 @@
+{
+  "name": "modular-admin-scss",
+  "version": "0.1.0",
+  "description": "SCSS Files for modular admin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenrob/modular-admin-scss.git"
+  },
+  "author": "Stephen Robinson <s.j.robinson1@lancaster.ac.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenrob/modular-admin-scss/issues"
+  },
+  "homepage": "https://github.com/stephenrob/modular-admin-scss#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.4"
+  }
+}
